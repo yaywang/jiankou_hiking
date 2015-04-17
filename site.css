@@ -1,4 +1,8 @@
 body {
 	font-size: 18px;
-	width: 800px;
+}
+
+.main {
+	max-width: 800px;
+	margin: auto;
 }
